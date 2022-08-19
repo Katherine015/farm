@@ -16,4 +16,4 @@ async def on_member_remove(member):
   print(f'{member} leave!')
 
 #keep_alive.keep_alive()
-client.run('OTkwODE5OTMyOTU2Njg4NDM0.G0aZl4.5rP_UvjqtEgcQIV5tEeENrDLk26Z1uHlAg1CNs')
+client.run()
